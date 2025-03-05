@@ -1,4 +1,10 @@
+import HostProfile from "../components/host/HostProfile";
+
 function Host() {
-  return <></>;
+  return (
+    <>
+      <HostProfile />
+    </>
+  );
 }
 export default Host;

@@ -1,4 +1,10 @@
+import UserProfile from "../components/user/UserProfile";
+
 function User() {
-  return <></>;
+  return (
+    <>
+      <UserProfile />
+    </>
+  );
 }
 export default User;

@@ -1,9 +1,9 @@
+import SingleProp from "../components/property/SingleProp";
+
 function Property() {
   return (
     <>
-      <ImageGrid />
-      <PropHeader />
-      <PropDetails />
+      <SingleProp />
     </>
   );
 }
